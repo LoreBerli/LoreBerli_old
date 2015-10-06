@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Cioni
+tagline:             my github workshop
+url:                  https://loreberli.github.io/
 paginate:            1
 baseurl:             "https://loreberli.github.io/"
 
