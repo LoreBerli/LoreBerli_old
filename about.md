@@ -4,27 +4,17 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  CE Student,aspiring Sw Engineer.
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+I'm constantly spending my day trying figure out how people code things. I'll dump the intresting findings and I'll do my best at providing some sort of explenation.
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+Some small projects:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* [ppmNode](https://github.com/LoreBerli/ppmNode) : A graphical-programming tool ,part of a bigger suite.Written in Processing.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I'm not always checking, but you if feel like it you can [find me on Twitter](https://twitter.com/mrgorsky).
 
 Thanks for reading!
