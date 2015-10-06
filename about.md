@@ -9,7 +9,7 @@ title: About
 
 I'm constantly spending my day trying figure out how people code things. I'll dump the intresting findings and I'll do my best at providing some sort of explenation.
 
-## Setup
+## More
 
 Some small projects:
 
