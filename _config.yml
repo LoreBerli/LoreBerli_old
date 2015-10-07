@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Cioni
+tagline:             my github workshop
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
@@ -27,4 +27,10 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+repo:              https://github.com/poole/poole
+highlighter: rouge
+source: C:\Users\Utente\Documents\BLOG
+
+pages_list:
+  About: '/about'
+  Archive: '/archive'
