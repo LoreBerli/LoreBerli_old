@@ -28,7 +28,7 @@ author:
 version:             2.0.0
 github:
 repo:              https://github.com/poole/poole
-highlighter: rouge
+highlighter:       pygments
 source: C:\Users\Utente\Documents\BLOG
 
 pages_list:
