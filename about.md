@@ -10,7 +10,7 @@ title: About
 
 </p>
 <div id="infoBox">
-<img id="pic" src="/img/pic2.jpg" >
+<img id="pic" src="/img/myFace.jpg" >
 </div>
 
 
