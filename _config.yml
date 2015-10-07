@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Cioni
 tagline:             my github workshop
-url:                 http://getpoole.com
+url:                 https://loreberli.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -28,8 +28,8 @@ author:
 version:             2.0.0
 github:
 repo:              https://github.com/poole/poole
-highlighter: rouge
-source: C:\Users\Utente\Documents\BLOG
+highlighter:       pygments
+source:           https://loreberli.github.io/
 
 pages_list:
   About: '/about'
