@@ -7,13 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Cioni
 tagline:             my github workshop
-<<<<<<< HEAD
 url:                 http://getpoole.com
-=======
-url:                  https://loreberli.github.io/
->>>>>>> origin/master
 paginate:            1
-baseurl:             "https://loreberli.github.io/"
+baseurl:             ""
 
 # Assets
 #
